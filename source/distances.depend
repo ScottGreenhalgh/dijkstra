@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1550221468 source:c:\users\c0smic\desktop\uni\c\distances\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1550221468 source:c:\users\c0smic\desktop\uni\c\distances\source\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
